@@ -9,6 +9,7 @@ public class Boletin15 {
         System.out.println(fut.toString());
         System.out.println(entr.toString());
         System.out.println("Hola que tal");
+        System.out.println("Anxo callate");
     }
 
 }
